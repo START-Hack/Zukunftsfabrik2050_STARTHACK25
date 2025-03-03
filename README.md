@@ -1,9 +1,9 @@
-# <p align="center"> TITLE. </p>
+# <p align="center"> SGMM App </p>
 
 
 
 # <p align="center"> Who are we? </p>
-
+<p>Die Zukunft-Fabrik.2050 bietet eine offene und unabhängige Plattform für positive Visionen und die Gestaltung der Zukunft und bringt diese in den Dialog zwischen der Öffentlichkeit, der Politik, der Wissenschaft und der Wirtschaft ein.</p>
 
 ## <p align="center"> Case Introduction: </p>
 
