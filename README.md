@@ -28,10 +28,34 @@
 <p align="center">  </p>
 
 ## <p align="center"> Judging Criteria: </p>
+- Creativity (10%): Innovative approach to adopting and modernizing the St. Gallen Model.
+- Visual design (10%):	User-friendly and visually appealing interface.
+- Feasibility (40%):	Practicality of implementing the solution within existing technological constraints.
+- Reachability (30%):	Potential to address the needs of a wide audience (students, managers, etc.).
+- AI Integration (10%):	Effective and thoughtful use of AI for benchmarking, decision support and enhanced learning.
 
 
 
 ## <p align="center"> Point of Contact: </p>
-
+- dr.rainerlampe@transformation-partner.com
+- otto.schell@igdcr.net
+- guido.arndt@zukunftfabrik2050.de
+- steffen.losch@slosch.de
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
+
+🚀 Win the Ultimate Trip to DEKON 25 in Munich! 🌍🔥
+Your code can revolutionize the future of the St. Gallen Management Model – and now, an epic reward awaits you! 💡🏆
+
+🎯 THE HACKATHON PRIZE:
+🔹 An exclusive trip to the HSG Alumni Germany Conference (DEKON 25) in Munich – the hotspot for innovation, entrepreneurship, and groundbreaking business models! https://vimeo.com/1053959159
+🔹 Dive into a world of start-ups, think tanks, and visionary insights!
+🔹 Experience exclusive “Flying Classrooms” – visit cutting-edge tech start-ups in AI, mobility, food & health.
+🔹 Be part of the action as the St. Gallen Management Model is further developed and optimized for product-market fit.
+🔹 Connect with top entrepreneurs, investors & HSG alumni – your next career move starts here! 🚀
+🔹 Enjoy the legendary side program with live music, a Bavarian evening & exclusive networking events.
+
+🔥 Do you have the vision? Then claim your prize! 🔥
+Give it your all, bring your A-game, and develop the app that will redefine the management of tomorrow! 🚀💻
+
+#DEKON25 #HackTheFuture #HSGAlumni #StartUpYourCareer
