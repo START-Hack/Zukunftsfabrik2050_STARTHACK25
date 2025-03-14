@@ -21,7 +21,7 @@
 -	Future users will be: Students, managers, entrepreneurs, teachers and HSG alumni seeking to apply the model practically in strategy, operations and education.
 
 ## <p align="center"> The Pitch: </p>
-[Link to the video pitch]
+[Link to the video pitch](https://drive.google.com/file/d/18HugigwSWrG2kJaR_3xuCZ-d4iC606ui/view?usp=sharing)
 
 ## <p align="center"> Deep Dive Slides: </p>
 
