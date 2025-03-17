@@ -24,7 +24,7 @@
 [Link to the video pitch](https://drive.google.com/file/d/18HugigwSWrG2kJaR_3xuCZ-d4iC606ui/view?usp=sharing)
 
 ## <p align="center"> Deep Dive Slides: </p>
-[Link to the video pitch](SGMM_Architekturvorschlag_V2.pptx)
+[Link to deep dive slides](SGMM_Architekturvorschlag_V2.pptx)
 <p align="center">  </p>
 
 ## <p align="center"> Judging Criteria: </p>
